@@ -2,6 +2,10 @@
 
 A Laravel REST API demonstrating job queues, Sanctum authentication, and task processing.
 
+## Demo
+
+🎬 [Watch the demo on YouTube](https://www.youtube.com/watch?v=oQ9n8wlBRNE)
+
 ## Tech Stack
 
 - Laravel 12
