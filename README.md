@@ -4,7 +4,7 @@ A Laravel REST API demonstrating job queues, Sanctum authentication, and task pr
 
 ## Tech Stack
 
-- Laravel 11
+- Laravel 12
 - Laravel Sanctum (Token Auth)
 - MySQL
 - Job Queues (Database Driver)
